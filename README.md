@@ -1,2 +1,1 @@
-# watarubot
 gban-mirai
