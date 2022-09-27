@@ -1,6 +1,6 @@
 {
 	"name": "watarubot",
-	"version": "9.7.5",
+	"version": "9.3.1",
 	"description": "A simple Facebook Messenger Bot made by me(CatalizCS) and my brother SpermLord.",
 	"main": "mirai.js",
 	"scripts": {
