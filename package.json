@@ -1,6 +1,6 @@
 {
-	"name": "watarubot",
-	"version": "9.3.1",
+	"name": "yumibot",
+	"version": "1.0.0",
 	"description": "A simple Facebook Messenger Bot made by me(CatalizCS) and my brother SpermLord.",
 	"main": "mirai.js",
 	"scripts": {
@@ -25,9 +25,9 @@
 	"author": "Lance Fujimaru",
 	"license": "GPL-3.0",
 	"bugs": {
-		"url": "https://github.com/Wataru/watarubot/issues"
+		"url": "https://github.com/Watarudesu/wataru-bypass/issues"
 	},
-	"homepage": "https://github.com/WataruDesu/watarubot",
+	"homepage": "https://github.com/Watarudesu/wataru-bypass",
 	"dependencies": {
 		"@maihuybao/fca-unofficial": "^1.3.13-2",
 		"@miraipr0ject/assets": "",
